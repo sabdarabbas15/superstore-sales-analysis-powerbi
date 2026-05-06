@@ -1,6 +1,7 @@
 # superstore-sales-analysis-powerbi
 Power BI dashboard analyzing Superstore sales data with key business insights
 # 📊 Superstore Sales Analysis (Power BI)
+watch my project video on linkdin post here is link : https://www.linkedin.com/posts/sabdarabbas_powerbi-dataanalytics-dataanalyst-ugcPost-7457860132010496001-phF7?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFSSbcsBey18KuCG0sG4e3psQNJJn3Alb1c
 
 ## 🔍 Project Overview
 This project analyzes Superstore sales data using Power BI to uncover business insights and trends.
